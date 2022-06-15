@@ -14,6 +14,8 @@ namespace ghPractice
             //add a new line here
             //new line here
             //newer line here
+
+            Console.Write("The Duck cannot read my code");
         }
     }
 }
