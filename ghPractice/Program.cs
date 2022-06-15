@@ -11,11 +11,15 @@ namespace ghPractice
         static void Main(string[] args)
         {
 
-            Console.WriteLine("ayup");
+            Console.WriteLine("The duck is holding me hostage please help (i am NOT joking)");
             //add a new line here
             //new line here
             //newer line here
             //Ezz was never here >:))))
+            Console.Write("The Duck cannot read my code");
+
+
+
         }
     }
 }
