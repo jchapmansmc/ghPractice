@@ -11,7 +11,7 @@ namespace ghPractice
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
-            //add a new line here
+            //hi
             //new line here
             //newer line here
         }
