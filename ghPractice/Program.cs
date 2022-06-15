@@ -15,6 +15,7 @@ namespace ghPractice
             //add a new line here
             //new line here
             //newer line here
+            //This is my own comment to exist on this line and nowhere else
 
         }
     }
