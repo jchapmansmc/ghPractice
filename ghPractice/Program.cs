@@ -12,8 +12,10 @@ namespace ghPractice
         {
             Console.WriteLine("hello");
             //hi
-            //xd
+            //pls
             //like
+
+            Console.WriteLine("i am 16 years old")
         }
     }
 }
