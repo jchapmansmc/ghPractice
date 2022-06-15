@@ -14,6 +14,6 @@ namespace ghPractice
             //add a new line here
             //new line here
             //newer line here
-        }
+        } // comment
     }
 }
