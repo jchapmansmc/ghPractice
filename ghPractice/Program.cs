@@ -10,7 +10,7 @@ namespace ghPractice
     {
         static void Main(string[] args)
         {
-            Console.Write("Ezz is a tad silly");
+            Console.Write("Ezz is a tad silly!");
             //add a new line here
             //new line here
             //newer line here
